@@ -1,0 +1,29 @@
+/*ここからボタンのCSS*/
+.btn-gradation {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+
+  /*↓傾ける*/
+  transform: rotate(45deg);
+
+  font-size: 20px;
+  color: #FFF;
+  text-decoration: none;
+  font-weight: bold;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-image: linear-gradient(-90deg,#FF006E,#FFD500);
+  transition: .5s;
+  background-size: 400%
+
+}
+
+
+
+.btn-gradation:hover {
+  background-position: right center;
+}
