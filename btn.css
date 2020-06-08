@@ -2,8 +2,7 @@
   font-family: "Yu Gothic", YuGothic, Verdana, 'Hiragino Kaku Gothic ProN','Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, sans-serif;
   position: absolute;
   text-align: center;
-  padding-top: 50px;
-
+  padding-top: 25px;
   /*元に戻す*/
   transform: rotate(-45deg);
 }
@@ -13,9 +12,7 @@
   font-family: "Yu Gothic", YuGothic, Verdana, 'Hiragino Kaku Gothic ProN','Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, sans-serif;
   position: absolute;
   text-align: center;
-  padding-top: 50px;
-
-
+  padding-top: 25px;
   /*元に戻す*/
   transform: rotate(-45deg);
 }
@@ -25,9 +22,37 @@
   font-family: "Yu Gothic", YuGothic, Verdana, 'Hiragino Kaku Gothic ProN','Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, sans-serif;
   position: absolute;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 25px;
+  /*元に戻す*/
+  transform: rotate(-45deg);
+}
 
 
+.btn4 {
+  font-family: "Yu Gothic", YuGothic, Verdana, 'Hiragino Kaku Gothic ProN','Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, sans-serif;
+  position: absolute;
+  text-align: center;
+  padding-top: 25px;
+  /*元に戻す*/
+  transform: rotate(-45deg);
+}
+
+
+.btn5 {
+  font-family: "Yu Gothic", YuGothic, Verdana, 'Hiragino Kaku Gothic ProN','Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, sans-serif;
+  position: absolute;
+  text-align: center;
+  padding-top: 25px;
+  /*元に戻す*/
+  transform: rotate(-45deg);
+}
+
+
+.btn6 {
+  font-family: "Yu Gothic", YuGothic, Verdana, 'Hiragino Kaku Gothic ProN','Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, sans-serif;
+  position: absolute;
+  text-align: center;
+  padding-top: 25px;
   /*元に戻す*/
   transform: rotate(-45deg);
 }
